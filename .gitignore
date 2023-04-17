@@ -1,0 +1,17 @@
+
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
+/.project
+/appium.log
+settings/
+Reports/
+Screenshot/
+Test Cases/aTest
+
+/~$Test Data 2.xlsx
+.cache/*
+Reports/*.png
+*.png

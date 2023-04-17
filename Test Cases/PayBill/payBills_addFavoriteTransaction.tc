@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>payBills_addFavoriteTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8fb7c9f2-b15e-4a7a-ad1a-0ba907ec03bd</testCaseGuid>
+   <variable>
+      <defaultValue>'kachu89'</defaultValue>
+      <description></description>
+      <id>6384ac72-9f18-4aa7-ab44-328062389bad</id>
+      <masked>true</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'pass1234'</defaultValue>
+      <description></description>
+      <id>d46db514-a7eb-496a-8db6-f02ddac6a7f1</id>
+      <masked>true</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'12299292'</defaultValue>
+      <description></description>
+      <id>ad8a4704-7d27-4763-a241-4bbbc75f2f75</id>
+      <masked>false</masked>
+      <name>AccountNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'1229 9292'</defaultValue>
+      <description></description>
+      <id>ad8a4704-7d27-4763-a241-4bbbc75f2f75</id>
+      <masked>false</masked>
+      <name>accNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'21st Century'</defaultValue>
+      <description></description>
+      <id>85ca60f2-a174-41e1-ab95-142b9c5ea1ca</id>
+      <masked>false</masked>
+      <name>payeeName</name>
+   </variable>
+   <variable>
+      <defaultValue>'50.00'</defaultValue>
+      <description></description>
+      <id>22d3c574-2e1d-4033-9aea-dd34a1a38e4e</id>
+      <masked>false</masked>
+      <name>values</name>
+   </variable>
+   <variable>
+      <defaultValue>'RM 50.00'</defaultValue>
+      <description></description>
+      <id>0a21bb07-2d03-47ea-8dff-46b159257b22</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'Today'</defaultValue>
+      <description></description>
+      <id>142f9b06-6481-480c-9370-09361906b7e4</id>
+      <masked>false</masked>
+      <name>trxDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'MAE'</defaultValue>
+      <description></description>
+      <id>94dae559-cbc9-40c1-bb2b-3e9c42057351</id>
+      <masked>false</masked>
+      <name>accType</name>
+   </variable>
+   <variable>
+      <defaultValue>'5144 7700 0129'</defaultValue>
+      <description></description>
+      <id>515724ef-495a-4f6c-b1f5-74db3c20914f</id>
+      <masked>false</masked>
+      <name>accNoFrom</name>
+   </variable>
+   <variable>
+      <defaultValue>'Payment successful'</defaultValue>
+      <description></description>
+      <id>0fee83a3-ac50-4d77-b5ef-03a265e420b2</id>
+      <masked>false</masked>
+      <name>successTransactionMessage</name>
+   </variable>
+</TestCaseEntity>

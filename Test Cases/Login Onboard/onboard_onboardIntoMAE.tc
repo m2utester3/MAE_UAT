@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>onboard_onboardIntoMAE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6bf5e366-b6de-4ba9-9cf9-11f3860a20c7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>514189f4-0f50-4fc5-8f87-6b6e5311aa3f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8d62a261-211f-48ea-9b7d-0b01f111d556</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d1e138ee-9fb6-43c8-9a22-b587b3e537e6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Trinity_60'</defaultValue>
+      <description></description>
+      <id>514189f4-0f50-4fc5-8f87-6b6e5311aa3f</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'pass1234'</defaultValue>
+      <description></description>
+      <id>8d62a261-211f-48ea-9b7d-0b01f111d556</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'kachu'</defaultValue>
+      <description></description>
+      <id>d1e138ee-9fb6-43c8-9a22-b587b3e537e6</id>
+      <masked>true</masked>
+      <name>contactName</name>
+   </variable>
+</TestCaseEntity>
